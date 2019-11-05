@@ -5,3 +5,4 @@ x = int(sys.argv[1]) # аргументы передаются в cmd после
 y = int(sys.argv[2]) # C:\Users\Андрей\Desktop>Pyt.py 5 5
 print(x ** y)
 print('Ура, сработало! наверное')
+print('Проверка второго закрепления...')
