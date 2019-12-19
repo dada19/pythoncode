@@ -6,3 +6,4 @@ y = int(sys.argv[2]) # C:\Users\Андрей\Desktop>Pyt.py 5 5
 print(x ** y)
 print('Ура, сработало! наверное')
 print('Проверка второго закрепления...')
+print('Ещё один commit...')
